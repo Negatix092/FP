@@ -1,7 +1,7 @@
 # FP
 Final Project of CS 
 
-## Collabs
+## Colabs
 
 * SISO:
   
