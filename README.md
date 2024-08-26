@@ -6,7 +6,8 @@ Final Project of CS
 * SISO:
   
   - https://colab.research.google.com/drive/1D9H7kHlsgtljL_gyMQoYtILFLhVrgXw0?usp=sharing
-  - https://colab.research.google.com/drive/1OyBsnIze5dW1LzwdGFPgmMCM4Zd_ocfo?usp=sharing (LSTM+wandb)
+  - https://colab.research.google.com/drive/1OyBsnIze5dW1LzwdGFPgmMCM4Zd_ocfo?usp=sharing (Demand)(LSTM+wandb)
+  - https://colab.research.google.com/drive/1q87dhcK5kH79myH-cNd93kAJz_FH8Bko?usp=sharing (Demand)(Transformer+wandb)
 
 ## References
 
