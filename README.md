@@ -7,6 +7,7 @@ Final Project of CS
   
   - https://colab.research.google.com/drive/1D9H7kHlsgtljL_gyMQoYtILFLhVrgXw0?usp=sharing (raw)
   - https://colab.research.google.com/drive/1OyBsnIze5dW1LzwdGFPgmMCM4Zd_ocfo?usp=sharing (Demand)(LSTM+wandb)
+  - https://colab.research.google.com/drive/1-WeCKFaVH-vfBo7Zro8I2xhB-934NteW?usp=sharing (Demand)(LSTM+wandb)
   - https://colab.research.google.com/drive/14Hvu3JKn5Foi2I81YUt9FL1QkpZ_hHIr?usp=sharing (Generation)(LSTM+wandb)
   - https://colab.research.google.com/drive/1q87dhcK5kH79myH-cNd93kAJz_FH8Bko?usp=sharing (Demand)(Transformer+wandb)
   - https://colab.research.google.com/drive/1zBVXi4VokS6ApzmkYQEY8cPefmL5lSzi?usp=sharing (Generation)(Transformer+wandb)
