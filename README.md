@@ -12,6 +12,10 @@ Final Project of CS
   - https://colab.research.google.com/drive/1X_1c6RulUJlcoaxRG9fkQ4dyzImz_D1h?usp=sharing (Demand)(TCN+wandb)
   - https://colab.research.google.com/drive/1AHie_RN4MVEVdN2-sdnsPNVxM0zAR7ct?usp=sharing (Demand)(Hybrid+wandb)
 
+* MIMO:
+
+  - https://colab.research.google.com/drive/1KbX4n1_KAQmH4lmC2wD85Jk26NY73ZPI?usp=sharing (Demand)(LSTM+Wandb)
+
 ## References
 
 * https://www.mdpi.com/2673-4591/47/1/5
