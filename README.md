@@ -15,6 +15,7 @@ Final Project of CS
 * MIMO:
 
   - https://colab.research.google.com/drive/1KbX4n1_KAQmH4lmC2wD85Jk26NY73ZPI?usp=sharing (Demand)(LSTM+Wandb)
+  - https://colab.research.google.com/drive/1bgS4TsiWlhxI3D3BrmPrYqq5ZFnUOFlu?usp=sharing (Generation)(LSTM+Wandb)
 
 ## References
 
