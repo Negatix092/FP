@@ -5,17 +5,25 @@ Final Project of CS
 
 * SISO:
   
-  - https://colab.research.google.com/drive/1-WeCKFaVH-vfBo7Zro8I2xhB-934NteW?usp=sharing (Demand)(LSTM+wandb)
-  - https://colab.research.google.com/drive/14Hvu3JKn5Foi2I81YUt9FL1QkpZ_hHIr?usp=sharing (Generation)(LSTM+wandb)
-  - https://colab.research.google.com/drive/1q87dhcK5kH79myH-cNd93kAJz_FH8Bko?usp=sharing (Demand)(Transformer+wandb)
-  - https://colab.research.google.com/drive/1zBVXi4VokS6ApzmkYQEY8cPefmL5lSzi?usp=sharing (Generation)(Transformer+wandb)
-  - https://colab.research.google.com/drive/1X_1c6RulUJlcoaxRG9fkQ4dyzImz_D1h?usp=sharing (Demand)(TCN+wandb)
-  - https://colab.research.google.com/drive/1AHie_RN4MVEVdN2-sdnsPNVxM0zAR7ct?usp=sharing (Demand)(Hybrid+wandb)
+  - LSTM:
+    - https://colab.research.google.com/drive/1-WeCKFaVH-vfBo7Zro8I2xhB-934NteW?usp=sharing (Demand)
+    - https://colab.research.google.com/drive/14Hvu3JKn5Foi2I81YUt9FL1QkpZ_hHIr?usp=sharing (Generation)
+  - Transformers:
+    - https://colab.research.google.com/drive/19XD-pF4OlR8wufQGXpRGkqiwUEpAs6OJ?usp=sharing (Demand)
+    - https://colab.research.google.com/drive/1yH7AgE3O1-2G6C1h0LOchhvtpkNjdRL9?usp=sharing (Generation)
+  - TCN:
+    - https://colab.research.google.com/drive/1qaONrfQf2YG8IJMGWlT22Z015pJgSyQM?usp=sharing (Demand)
+    - https://colab.research.google.com/drive/1PsSQYvtVnaP9DyfWzFSH_M1bDUk3sth1?usp=sharing (Generation)
+  - Hybrid (TCN + LSTM):
+    - https://colab.research.google.com/drive/1NM5UOoWl89RP1uW9MZDuw87zZZ7hGwtr?usp=sharing (Demand)
+    - https://colab.research.google.com/drive/1ovuG2kU7Ydh8SqKKEdG4V1t0Wry58x2H?usp=sharing (Generation)
+  
 
 * MIMO:
 
-  - https://colab.research.google.com/drive/1KbX4n1_KAQmH4lmC2wD85Jk26NY73ZPI?usp=sharing (Demand)(LSTM+Wandb)
-  - https://colab.research.google.com/drive/1bgS4TsiWlhxI3D3BrmPrYqq5ZFnUOFlu?usp=sharing (Generation)(LSTM+Wandb)
+  - LSTM:
+    - https://colab.research.google.com/drive/1KbX4n1_KAQmH4lmC2wD85Jk26NY73ZPI?usp=sharing (Demand)
+    - https://colab.research.google.com/drive/1bgS4TsiWlhxI3D3BrmPrYqq5ZFnUOFlu?usp=sharing (Generation)
 
 ## References
 
