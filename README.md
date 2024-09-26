@@ -6,14 +6,15 @@ Final Project of CS
 * SISO:
   
   - LSTM:
-    - https://colab.research.google.com/drive/1-WeCKFaVH-vfBo7Zro8I2xhB-934NteW?usp=sharing (Demand)(LSTM+wandb) 
-    - https://colab.research.google.com/drive/14Hvu3JKn5Foi2I81YUt9FL1QkpZ_hHIr?usp=sharing (Generation)(LSTM+wandb)
+    - https://colab.research.google.com/drive/1-WeCKFaVH-vfBo7Zro8I2xhB-934NteW?usp=sharing (Demand)
+    - https://colab.research.google.com/drive/14Hvu3JKn5Foi2I81YUt9FL1QkpZ_hHIr?usp=sharing (Generation)
   - Transformers:
-    - https://colab.research.google.com/drive/19XD-pF4OlR8wufQGXpRGkqiwUEpAs6OJ?usp=sharing (Demand)(Transformers+wandb)
+    - https://colab.research.google.com/drive/19XD-pF4OlR8wufQGXpRGkqiwUEpAs6OJ?usp=sharing (Demand)
+    - https://colab.research.google.com/drive/1yH7AgE3O1-2G6C1h0LOchhvtpkNjdRL9?usp=sharing (Generation)
   - TCN:
-    - https://colab.research.google.com/drive/1qaONrfQf2YG8IJMGWlT22Z015pJgSyQM?usp=sharing (Demand)(TCN+wandb)
-  - Hybrid (TCN + Transformers):
-    - https://colab.research.google.com/drive/1NM5UOoWl89RP1uW9MZDuw87zZZ7hGwtr?usp=sharing (Demand)(Hybrid:LSTM+TCN+wandb)
+    - https://colab.research.google.com/drive/1qaONrfQf2YG8IJMGWlT22Z015pJgSyQM?usp=sharing (Demand)
+  - Hybrid (TCN + LSTM):
+    - https://colab.research.google.com/drive/1NM5UOoWl89RP1uW9MZDuw87zZZ7hGwtr?usp=sharing (Demand)
   
 
 * MIMO:
