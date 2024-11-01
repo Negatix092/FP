@@ -1,0 +1,26 @@
+Explicacion de las columnas
+
+Cada columna es un transformador. Es un id del transformador. Cada columna es una señal en tiempo, medida cada hora. Es decir, la columna es todo lo que se midió en un transformador, y las filas son las mediciones hechas, en ese transformador, en intervalos de una hora. 
+
+Señal en tiempo medida cada hora. El eje y está en KW. 
+
+M1, M2, M3** ….M4=? (t=3 ventana) 3 muestras observa, prediccion es M4=?
+
+M2, M3, M4** …. M5=?(t=3 ventana)
+
+respetar causalidad.
+
+Input: 0 hasta t horas: **Cuántas muestras t requiero para predecir el t+1 con cierta precisión?**
+
+Output: t+1, t+2 etc
+
+LSTM independiente por cada transformador. SISO single input single output 
+
+LSTM multiple input - Multiple Output. Un  modelo indepwentiende para demanda y otro pa generacion MIMO
+
+LSTM multiple input - Multiple Output. Un solo modelo para demanda y generacion MIMO
+
+Tenemos cada hora dos años de información por hora y queremos verle como una predicción de serie de tiempo y yo quiero saber qué va a pasar en el siguiente instante. 
+
+Cuánto debería ser el lag que tú necesitas, es decir, cuántas muestras del pasado (t) requiero para predecir el t más uno con cierta precisión. 
+
