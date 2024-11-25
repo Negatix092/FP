@@ -4,6 +4,8 @@ Final Project of CS
 
 ## Colabs
 
+### Predictions
+
 * SISO:
   
   - LSTM:
@@ -25,6 +27,10 @@ Final Project of CS
   - LSTM:
     - https://colab.research.google.com/drive/1KbX4n1_KAQmH4lmC2wD85Jk26NY73ZPI?usp=sharing (Demand)
     - https://colab.research.google.com/drive/1bgS4TsiWlhxI3D3BrmPrYqq5ZFnUOFlu?usp=sharing (Generation)
+   
+### Anomaly Detection
+
+* https://colab.research.google.com/drive/1D-mo-b1g8c61JQ0UW7ZWbyvlPk6t1k87?usp=sharing
 
 ## References
 
