@@ -30,7 +30,8 @@ Final Project of CS
    
 ### Anomaly Detection
 
-* https://colab.research.google.com/drive/1D-mo-b1g8c61JQ0UW7ZWbyvlPk6t1k87?usp=sharing
+* https://colab.research.google.com/drive/1D-mo-b1g8c61JQ0UW7ZWbyvlPk6t1k87?usp=sharing (Original Dataset)
+* https://colab.research.google.com/drive/1_yLqHMr9QpPcNCfSKQ16eypBDoLAdx2b?usp=sharing (Extended Dataset)
 
 ## References
 
